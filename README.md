@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sharangha
 - 👀 I’m interested in machine learning and exploring tech
-- 🌱 I’m currently in Kiit 3rd year
-- 💞️ I’m looking to collaborate on any projects related with IOT or ML
+- 🌱 I’m currently in Kiit 4th year
+- 💞️ I’m looking to collaborate on any projects related with Deep Learning or Machine Learning 
 - 📫  reach me from kushanapr12@gmail.com
 
 <!---
